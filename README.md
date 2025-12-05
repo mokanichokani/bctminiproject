@@ -12,7 +12,7 @@
 [![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)](https://soliditylang.org/)
 [![Hardhat](https://img.shields.io/badge/Hardhat-FFF1E2?logo=hardhat&logoColor=black)](https://hardhat.org/)
 
-[⭐ Star](https://github.com/faizack619/Supply-Chain-Blockchain) • [🍴 Fork](https://github.com/faizack619/Supply-Chain-Blockchain/fork) • [🐛 Report Bug](https://github.com/faizack619/Supply-Chain-Blockchain/issues) • [💡 Request Feature](https://github.com/faizack619/Supply-Chain-Blockchain/issues)
+[⭐ Star](https://github.com/mokanichokani/Supply-Chain-Blockchain) • [🍴 Fork](https://github.com/mokanichokani/Supply-Chain-Blockchain/fork) • [🐛 Report Bug](https://github.com/mokanichokani/Supply-Chain-Blockchain/issues) • [💡 Request Feature](https://github.com/mokanichokani/Supply-Chain-Blockchain/issues)
 
 </div>
 
@@ -93,7 +93,7 @@ The application follows a decentralized architecture where:
 User → Next.js Frontend → Web3.js → MetaMask → Ethereum Network → Smart Contract
 ```
 
-![Architecture Diagram](https://raw.githubusercontent.com/faizack619/Supply-Chain-Gode-Blockchain/master/client/public/Blank%20diagram.png)
+![Architecture Diagram](https://raw.githubusercontent.com/mokanichokani/Supply-Chain-Gode-Blockchain/master/client/public/Blank%20diagram.png)
 
 ### Supply Chain Flow
 
@@ -120,7 +120,7 @@ Before you begin, ensure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/faizack619/Supply-Chain-Blockchain.git
+git clone https://github.com/mokanichokani/Supply-Chain-Blockchain.git
 cd Supply-Chain-Blockchain
 ```
 
@@ -287,7 +287,7 @@ The `SupplyChain.sol` smart contract implements a comprehensive supply chain man
 - `RMSsupply()`, `Manufacturing()`, `Distribute()`, `Retail()`, `sold()`: Progress products through stages
 - `showStage()`: Get current stage of a product
 
-![Smart Contract Flow](https://raw.githubusercontent.com/faizack619/Supply-Chain-Gode-Blockchain/master/client/public/Supply%20Chain%20Design%20(1).png)
+![Smart Contract Flow](https://raw.githubusercontent.com/mokanichokani/Supply-Chain-Gode-Blockchain/master/client/public/Supply%20Chain%20Design%20(1).png)
 
 ## 🤝 Contributing
 
