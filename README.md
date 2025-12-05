@@ -287,7 +287,7 @@ The `SupplyChain.sol` smart contract implements a comprehensive supply chain man
 - `RMSsupply()`, `Manufacturing()`, `Distribute()`, `Retail()`, `sold()`: Progress products through stages
 - `showStage()`: Get current stage of a product
 
-![Smart Contract Flow](https://raw.githubusercontent.com/mokanichokani/Supply-Chain-Gode-Blockchain/master/client/public/Supply%20Chain%20Design%20(1).png)
+![Smart Contract Flow](https://raw.githubusercontent.com/faizack619/Supply-Chain-Gode-Blockchain/master/client/public/Supply%20Chain%20Design%20(1).png)
 
 ## 🤝 Contributing
 
